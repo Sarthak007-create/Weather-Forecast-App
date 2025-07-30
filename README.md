@@ -53,19 +53,6 @@ It shows the current weather and a 5-day forecast for any city you search for.
    npm start
    ```
 
----
-
-## 📸 Screenshots
-
-_Add your app screenshots here._
-
----
-
-
-
-_You can deploy your app using Netlify, Vercel, or GitHub Pages._
-
----
 
 ## 🙋‍♂️ Author
 
