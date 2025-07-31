@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import { MapPin, Thermometer, Wind, Droplets, Sunrise, Sunset } from "lucide-react";
 
-const API_KEY = "bb36788205c3999f044f625d81579156";
+const API_KEY = "ENTER YOUR OWN API";
 
 export default function App() {
   const [city, setCity] = useState("");
